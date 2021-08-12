@@ -2,7 +2,7 @@
   
 [![badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
 ## Description
-A simple budget tracker you can access from any device.
+A simple budget tracker you can access from any device. You can install the app from Chrome and it will also work offline.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
