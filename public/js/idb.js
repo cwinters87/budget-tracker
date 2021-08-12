@@ -61,6 +61,7 @@ function updateBudget() {
           const budgetObjectStore = transaction.objectStore('budget');
           // clear all items in your store
           budgetObjectStore.clear();
+          
         })
         .catch(err => {
           // set reference to redirect back here
